@@ -1,0 +1,4 @@
+python-docx==0.8.11
+webdriver-manager==4.0.1
+selenium==4.8.3
+pandas
